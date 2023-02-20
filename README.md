@@ -1,3 +1,4 @@
+# Bankist
 This is one of the projects of the JavaScript course I did from Udemy by Jonas Schmedtmann.
 
 This app simulates the banking transactions i.e each transaction is reflected in both accounts (sender and receiver).
